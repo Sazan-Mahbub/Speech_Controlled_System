@@ -1,0 +1,6 @@
+
+
+1. google speech recognition API***
+
+2. on system LSTM based RNN
+
